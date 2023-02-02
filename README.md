@@ -34,10 +34,9 @@
 > mvn package
 > ```
 
-## Pruebas con ClientTest
-> 
-> Teniendo las el proceso de instalación completo, ahora podemos proceder a realizar nuestras pruebas locales, en nuestro caso seran ejecudo por medio de nuestro ```ClientTest``` y las podemos ejecutar del siguiente modo:
-> Para mostrar que funciona el programa porcedemos a usar POSMAN con las sigiente indicaciones :
+## Pruebas
+
+> Para mostrar que funciona el programa porcedemos a usar POSMAN con las sigiente indicaciones o tambien mediante las pruebas en el navegador web:
 > 
 > iniciar el programa y entrar  a local:35000 (recuerde que solo funciona en Mozilla Firefox)
 > 
